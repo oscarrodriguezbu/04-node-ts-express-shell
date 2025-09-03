@@ -26,7 +26,7 @@ OPCIONAL:
 Instalar nrok para manejar los endpoints desde el celular https://ngrok.com/ luego seguir la documentacion para
 configurarlo y correr con `nrok http 3000` en la powershell de windows. Tambien en la consola luego de correrlo aparece un https el cual hay que pegarlo en los environments para ver los webservice de la aplicacion.
 
-## Screenshoots
+## Screenshots
 ![alt text](public/screenshoots/image.png)
 
 ![alt text](public/screenshoots/image2.png)
